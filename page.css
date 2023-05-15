@@ -16,7 +16,7 @@ body
 	padding: 10%;
 }
 
-bluebg
+.bluebg
 {
 	background-color: var(--color-blue);
 	color: var(--color-bg);
