@@ -11,6 +11,11 @@
 	color: var(--color-white);
 }
 
+body
+{
+	padding: 10%;
+}
+
 bluebg
 {
 	background-color: var(--color-blue);
